@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Hello and welcome Ratkhan! \n");
+        System.out.printf("Hello and welcome Ratkhan from new branch! \n");
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
